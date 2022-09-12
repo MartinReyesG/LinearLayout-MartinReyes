@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name" translatable="false">LinearLayout</string>
+    <string name="name" translatable="false">Martin Reyes</string>
+    <string name="yellow_star" translatable="false">Yellow star</string>
+    <string name="bio" translatable="false">Hola, mi nombre es Martin Alejandro Reyes Gaona.
+\n\nUno de mis hobbies siempre ha sido dibujar cosas de la naturaleza.
+\n\nCuando era niño no solía practicar algún deporte ni ejercicio en general pero al crecer me fue
+        gustando más las actividades al aire libre como el MTB.
+\nPero no solo eso, sino que ya desde hace unos tres meses voy al gym lo que me hace sentir muy
+        relajado después de cada sesión lo que me ayuda a concentrarme cuando esté programando.
+\n\nEn estos últimos días he visto cursos relacionados con el uso de git y de github, ya que he
+        notado que la suelo usar mucho pero no conozco muchas de las herramientas que contienen lo
+        que me hace darme cuenta que me limito mucho al usarlo, lo cual quise mejorar.
+\nAdemás, he aprendido un nuevo lenguaje de programación llamado Kotlin el que me parece muy intersante
+        porque con ese lenguaje es como estoy realizando esta app :)
+\n\Estoy emocionado por aprender más funcionalidades de Kotlin para conocer más sobre Android Studio.
+</string>
+    <string name="verde_img" translatable="false">verde</string>
+</resources>
