@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">LinearLayout</string>
+    <string name="app_name" translatable="false">LinearLayout2- The revenge</string>
     <string name="name" translatable="false">Martin Alejandro Reyes Gaona</string>
     <string name="yellow_star" translatable="false">Yellow star</string>
     <string name="bio" translatable="false">Hola, mi nombre es Martin Alejandro Reyes Gaona.
@@ -16,4 +16,5 @@
 \n\Estoy emocionado por aprender más funcionalidades de Kotlin para conocer más sobre Android Studio.
 </string>
     <string name="verde_img" translatable="false">verde</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
 </resources>
